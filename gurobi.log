@@ -1,0 +1,18 @@
+
+Gurobi 8.1.1 (mac64, Python) logging started Mon Jan 27 09:35:19 2020
+
+Academic license - for non-commercial use only
+Optimize a model with 4 rows, 3 columns and 9 nonzeros
+Model has 2 quadratic objective terms
+Coefficient statistics:
+  Matrix range     [1e+00, 2e+00]
+  Objective range  [0e+00, 0e+00]
+  QObjective range [1e+00, 1e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+00]
+Presolve removed 4 rows and 3 columns
+Presolve time: 0.11s
+Presolve: All rows and columns removed
+
+Barrier solved model in 0 iterations and 0.11 seconds
+Optimal objective 1.00000000e+00
